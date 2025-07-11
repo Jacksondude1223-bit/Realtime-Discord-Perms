@@ -1,0 +1,1 @@
+-- FiveM client-side script to update UI and roles

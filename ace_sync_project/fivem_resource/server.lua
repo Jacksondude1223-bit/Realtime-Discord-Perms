@@ -1,0 +1,1 @@
+-- FiveM server-side script to handle role sync
