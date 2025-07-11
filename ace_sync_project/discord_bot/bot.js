@@ -1,1 +1,0 @@
-// Discord bot that watches for role changes and sends them to FiveM

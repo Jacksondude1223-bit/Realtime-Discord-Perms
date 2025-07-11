@@ -1,1 +1,0 @@
--- fxmanifest.lua is preferred but __resource.lua is used here for simplicity
