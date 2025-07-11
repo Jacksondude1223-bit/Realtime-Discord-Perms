@@ -1,5 +1,4 @@
-Ace Sync Project
+## 🚀 Ace Sync Project
+The only system that provides true REALTIME Discord-to-FiveM ACE/Groups permission synchronization.
 
-- The only system the provides REALTIME Discord to FiveM ace/groups perm sync.
-
-Powered by the want to better the development community.
+Powered by passion — built to elevate the FiveM development community.
